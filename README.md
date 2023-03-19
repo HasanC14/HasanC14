@@ -65,21 +65,21 @@
 
 ## Best Projects
 
-- [Second Book](https://github.com/yourusername/second-book) - Online E-Commerce Platform
+- [Second Book](https://github.com/HasanC14/Second-Book) - Online E-Commerce Platform
   - A platform for buying and selling used books
   - Admin route for managing users and products
   - Seller route for adding and managing their products
   - Secure transactions through Stripe integration
   - Tech Stack: MongoDB | ReactJS | ExpressJS | Node.js | Tailwind CSS | Stripe | DaisyUI
 
-- [WriteRight](https://github.com/yourusername/writeright) - Writing Enhancement Tool
+- [WriteRight](https://github.com/HasanC14/WriteRight) - Writing Enhancement Tool
   - A platform that leverages the power of OpenAI's language processing technology to enhance writing
   - Rewriting or Summarization
   - Grammar Checking
   - Tone Conversion
   - Tech Stack: OpenAI | ReactJS | ExpressJS | Node.js | Tailwind CSS | DaisyUI
 
-- [Islamic Prayer Time](https://github.com/yourusername/islamic-prayer-time) - Chrome Extension
+- [Islamic Prayer Time](https://github.com/HasanC14/Islamic-Prayer-Time) - Chrome Extension
   - A Chrome extension that helps Muslims keep track of their daily prayers
   - Displays current prayer time and name of the next prayer
   - Updates prayer times automatically every minute
