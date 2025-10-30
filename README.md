@@ -3,49 +3,8 @@
 </div>  
   
 
-### I'm Hasan, a Passionate software engineer  👨‍💻  with expertise in web development and a drive to create innovative solutions 🚀  
+### Software Engineer | JavaScript Enthusiast | Creator of PricePoka & PrayerTime BD | Passionate about solving real-world problems through code 🇧🇩🇵🇸
   
-
-- 🚀 Love to experiment with new technologies  
-  
-
-- 👨‍💻 Experienced in building both frontend and backend systems  
-  
-
-- 🤝 Excited about collaborating with other developers and contributing to open source projects  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><tr valign="top" width="100%">
-
-
-
-### Frontend  
-<div align="left">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
-
-</tr><tr valign="top" width="100%">
-
-
-
-### Backend  
-<div align="left">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://i.ibb.co/FW9rV1V/pngfind-com-js-logo-png-6833893.png" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://i.ibb.co/j3h6JqV/expressjs.png" alt="Express.js" height="50" /></a>  
-</div>
-
-</tr><tr valign="top" width="100%">
-
-</td></tr></table>  
 
 <br/>  
 
@@ -63,13 +22,13 @@
   - Rewriting or Summarization
   - Grammar Checking
   - Tone Conversion
-  - Tech Stack: OpenAI | ReactJS | ExpressJS | Node.js | Tailwind CSS | DaisyUI
+  - Tech Stack: Gemini API | ExpressJS | ReactJS | Node.js | Tailwind CSS
 
 - [PrayerTime BD](https://github.com/HasanC14/PrayerTime-BD) - Chrome Extension
   - A Chrome extension that helps Muslims keep track of their daily prayers
   - Displays current prayer time and name of the next prayer
   - Updates prayer times automatically every minute
-  - Tech Stack: Moment.js| ReactJS | Tailwind CSS | Aladhan API
+  - Tech Stack: ReactJS | Tailwind CSS | Aladhan API
 
 ## Connect with me  
 <div align="center">
