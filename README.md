@@ -52,8 +52,8 @@
 ## Best Projects
 
 - [PricePoka](https://github.com/HasanC14/PricePoka) - PC Parts Price Comparison Website
-Developed Bangladesh’s first price comparison platform for PC components, helping users compare real-time
-prices from multiple vendors.
+    Developed Bangladesh’s first price comparison platform for PC components, helping users compare real-time
+    prices from multiple vendors.
   - Achieved 11K+ active users and 93K+ event interactions in the first 60 days through fully organic reach.
   - Real-time web scraping and dynamic price updates.
   - Maintained actively and now supported by 4+ contributors in the open-source community.
