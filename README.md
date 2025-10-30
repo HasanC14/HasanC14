@@ -51,12 +51,13 @@
 
 ## Best Projects
 
-- [Second Book](https://github.com/HasanC14/Second-Book) - Online E-Commerce Platform
-  - A platform for buying and selling used books
-  - Admin route for managing users and products
-  - Seller route for adding and managing their products
-  - Secure transactions through Stripe integration
-  - Tech Stack: MongoDB | ReactJS | ExpressJS | Node.js | Tailwind CSS | Stripe | DaisyUI
+- [PricePoka](https://github.com/HasanC14/PricePoka) - PC Parts Price Comparison Website
+Developed Bangladesh’s first price comparison platform for PC components, helping users compare real-time
+prices from multiple vendors.
+  - Achieved 11K+ active users and 93K+ event interactions in the first 60 days through fully organic reach.
+  - Real-time web scraping and dynamic price updates.
+  - Maintained actively and now supported by 4+ contributors in the open-source community.
+  - Tech Stack: ExpressJS | ReactJS | Node.js | Cheerio
 
 - [WriteRight](https://github.com/HasanC14/WriteRight) - Writing Enhancement Tool
   - A platform that leverages the power of OpenAI's language processing technology to enhance writing
@@ -65,7 +66,7 @@
   - Tone Conversion
   - Tech Stack: OpenAI | ReactJS | ExpressJS | Node.js | Tailwind CSS | DaisyUI
 
-- [Islamic Prayer Time](https://github.com/HasanC14/Islamic-Prayer-Time) - Chrome Extension
+- [PrayerTime BD](https://github.com/HasanC14/PrayerTime-BD) - Chrome Extension
   - A Chrome extension that helps Muslims keep track of their daily prayers
   - Displays current prayer time and name of the next prayer
   - Updates prayer times automatically every minute
@@ -76,15 +77,15 @@
 <a href="https://github.com/HasanC14" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/HasanCh38413037" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/dev1hasanchowdhury/" target="_blank">
+  
+<a href="https://www.linkedin.com/in/md-hasanchowdhury/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/hasan.chowdhuryD" target="_blank">
+
+<a href="https://www.facebook.com/dev.hasanchowdhury" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://instagram.com/hasan_d14" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
