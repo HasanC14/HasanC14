@@ -17,18 +17,18 @@
   - Maintained actively and now supported by 4+ contributors in the open-source community.
   - Tech Stack: ExpressJS | ReactJS | Node.js | Cheerio
 
+- [PrayerTime](https://github.com/HasanC14/PrayerTime-BD) - Chrome Extension
+  - A Chrome extension that helps Muslims keep track of their daily prayers
+  - Displays current prayer time and name of the next prayer
+  - Updates prayer times automatically every minute
+  - Tech Stack: ReactJS | Tailwind CSS | Aladhan API
+
 - [WriteRight](https://github.com/HasanC14/WriteRight) - Writing Enhancement Tool
   - A platform that leverages the power of OpenAI's language processing technology to enhance writing
   - Rewriting or Summarization
   - Grammar Checking
   - Tone Conversion
   - Tech Stack: Gemini API | ExpressJS | ReactJS | Node.js | Tailwind CSS
-
-- [PrayerTime BD](https://github.com/HasanC14/PrayerTime-BD) - Chrome Extension
-  - A Chrome extension that helps Muslims keep track of their daily prayers
-  - Displays current prayer time and name of the next prayer
-  - Updates prayer times automatically every minute
-  - Tech Stack: ReactJS | Tailwind CSS | Aladhan API
 
 ## Connect with me  
 <div align="center">
