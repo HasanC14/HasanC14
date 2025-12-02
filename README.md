@@ -24,7 +24,7 @@
   - Tech Stack: ReactJS | Tailwind CSS | Aladhan API
 
 - [WriteRight](https://github.com/HasanC14/WriteRight) - Writing Enhancement Tool
-  - A platform that leverages the power of OpenAI's language processing technology to enhance writing
+  - A platform that leverages the power of Google's language processing technology to enhance writing
   - Rewriting or Summarization
   - Grammar Checking
   - Tone Conversion
